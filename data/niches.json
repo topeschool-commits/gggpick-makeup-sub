@@ -1,22 +1,22 @@
 {
     "domain": "makeup.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "베이스 메이크업",
+        "립 메이크업",
+        "아이 메이크업"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang makeup items."
+        "베이스 메이크업": {
+            "topic": "Cushion foundations, concealers, makeup primers.",
+            "role": "Base makeup expert."
         },
-        "수유/이유식": {
-            "topic": "makeup bottle sterilizers, makeup food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "립 메이크업": {
+            "topic": "Lipsticks, lip tints, lip glosses, lip balms.",
+            "role": "Lip color curator."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "아이 메이크업": {
+            "topic": "Eyeshadow palettes, mascaras, eyeliners.",
+            "role": "Eye makeup reviewer."
         }
     }
 }
