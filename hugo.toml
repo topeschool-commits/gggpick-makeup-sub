@@ -5,7 +5,7 @@
 # 1. 사이트 기본 식별 정보
 baseURL = 'https://makeup.gggpick.com/'
 languageCode = 'ko-kr'
-title = 'GGG Pick makeup'
+title = 'GGG Pick 메이크업'
 
 [params]
   # 2. 쿠팡 파트너스 전용 데이터
@@ -16,7 +16,7 @@ title = 'GGG Pick makeup'
   homepage_sections = ["posts"]
   
   # 3. 사이트 설명 및 브랜딩
-  description = 'makeup 관련 전문가 리뷰와 쿠팡 최저가 완벽 가이드.'
+  description = '베이스 메이크업, 립 메이크업, 아이 메이크업 등 완벽한 화장을 위한 뷰티/색조 화장품 쿠팡 로켓배송 추천 및 리뷰.'
   brandColor = "#1a1c2c"
 
   # (공통) 애드센스 정보 및 메타 데이터
@@ -25,7 +25,7 @@ title = 'GGG Pick makeup'
   env = 'production'
 
   # 🚨 사이트 식별 정보
-  sitename = "GGG Pick makeup"
+  sitename = "GGG Pick 메이크업"
   siteurl = "https://makeup.gggpick.com"
   startdate = "2026-03-31"
   contactemail = "contact@gggpick.com"
