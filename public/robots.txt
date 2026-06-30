@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://makeup.gggpick.com/sitemap.xml
